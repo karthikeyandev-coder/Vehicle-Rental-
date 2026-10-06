@@ -1,0 +1,6 @@
+{
+  "name": "Vehicle Rental Management System",
+  "description": "Comprehensive Vehicle Rental Management System with fleet management, customer records, booking engine, return billing, and interactive Java OOP architecture demonstrator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
